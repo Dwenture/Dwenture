@@ -1,5 +1,5 @@
-- Hi, I’m @Dwenture
-- I'm 18 years old and a freshman at Bilkent University in CS as of 2024 
+- Hi, I’m Efe Atalay
+- I study computer science and I am a freshman at Bilkent University.
 
 
 <!---
